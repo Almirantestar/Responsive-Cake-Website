@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../loja"
+		},
+		{
+			"path": "../projeto-one"
+		},
+		{
+			"path": "../../../curso_front_end/ProjetoInfusion_final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cake_website"
+	}
+}
